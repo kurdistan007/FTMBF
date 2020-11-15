@@ -15,7 +15,7 @@ pip2 install mechanize
 
 git clone https://github.com/kurdistan007/FTMBF
 
-cd Multibruteforce
+cd FTMBF
 
 chmod 777 FTMBF.py
 
