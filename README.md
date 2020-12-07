@@ -24,5 +24,4 @@ python2 FTMBF.py
 
 Best tool for kurdish hacker conect me for 
 
-user: 
-pass: 
+key
